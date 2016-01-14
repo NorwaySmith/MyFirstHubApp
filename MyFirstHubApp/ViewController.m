@@ -23,8 +23,11 @@
 /**
  *  添加了一个方法
  */
--(void)addAnCount{
-    NSLog(@"添加了一个方法");
+//-(void)addAnCount{
+//    NSLog(@"添加了一个方法");
+//}
+-(void)newAccount{
+    NSLog(@"new");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
